@@ -1,6 +1,7 @@
 Requirements
 
 PHP >= 8.2
+
 Composer >= 2.0
 
 
